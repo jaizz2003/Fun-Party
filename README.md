@@ -1,4 +1,4 @@
-# Learning
+# FUN
 
 This Repository is for us to start a Project Together and learn it's different aspects.
 
